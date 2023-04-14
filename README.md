@@ -4,7 +4,7 @@ Jason Tarkington, Hao Zhang, Ricardo B. R. Azevedo, Rebecca A. Zufall
 
 [Evolution 77(1): 36–48, 2023](https://academic.oup.com/evolut/article/77/1/36/6873695)
 
-Last updated: February 28, 2023 (under construction)
+Last updated: April 14, 2023 (under construction)
 
 ## Contents
 
@@ -16,3 +16,5 @@ Last updated: February 28, 2023 (under construction)
   simulations and generate Figure 5.
 
 * `Figure_4.ipynb`: Jupyter notebook to generate Figure 4.
+
+* `data`: Folder containing data used to generate figures.
