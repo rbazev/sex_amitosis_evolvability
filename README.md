@@ -19,4 +19,6 @@ Last updated: May 24, 2023 (under construction)
 
 * `Figure_5.ipynb`: Jupyter notebook to generate Figure 5.
 
+* `Figure_6.ipynb`: Jupyter notebook to generate Figure 6.
+
 * `data`: Folder containing data used to generate Figures 4 and 5.
