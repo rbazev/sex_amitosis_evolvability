@@ -12,8 +12,8 @@ Last updated: May 30, 2023 (under construction)
 
 * `amitosis.py`: Python 3.7 code to run simulations.
 
-* `Demo.ipynb`: Jupyter notebook illustrating how to run evolutionary
-  simulations and generate Figure 5.
+* `Demo.ipynb`: Jupyter notebook illustrating how to run the evolutionary
+  simulations used to generate Figure 5.
 
 * `Figure_4.ipynb`: Jupyter notebook to generate Figure 4.
 
