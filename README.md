@@ -23,4 +23,4 @@ Last updated: May 30, 2023 (under construction)
 
 * `Figure_7.ipynb`: Jupyter notebook to generate Figure 7.
 
-* `data`: Folder containing data used to generate Figures 4 and 5.
+* `data`: Folder containing data used to generate the figures.
